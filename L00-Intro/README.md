@@ -6,12 +6,12 @@ En esta clase el alumno conocerá:
 
 * La configuración e instalación de Python
 * La implementación de ambientes virtuales
-* La instalación de bibliotecas para el desarrollo del curos
+* La instalación de bibliotecas para el desarrollo del curso
 * El uso de Notebooks de Python
 * Manejo de Numpy y Pandas
 
 
-## 1. Ambientes virtuales
+## Ambientes virtuales
 
 [`Uso de ambientes virtuales`](./L00-1-Ambiente/README.md)
 
