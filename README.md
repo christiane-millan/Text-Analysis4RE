@@ -8,7 +8,8 @@ Presentar al estudiante técnicas, herramientas y tecnologías de análisis de t
 
 ## Contenido
 
-0. [Entorno de trabajo en Python](./L00-Intro/L00-1-Ambiente/README.md)
+[Entorno de trabajo en Python](./L00-Intro/README.md)
+
 1. Introducción
 2. Procesamiento y comprensión de requisitos
 3. Clasificación de requisitos
