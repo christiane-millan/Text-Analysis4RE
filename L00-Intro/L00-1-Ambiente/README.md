@@ -38,7 +38,7 @@ IPy
 - Trabajo a nivel archivo
 - Uso gratuito de GPUs y TPUs
 
-# Deepnote**: ciencia de datos**
+# Deepnote: ciencia de datos
 
 Características de Deepnote
 
@@ -109,7 +109,7 @@ conda activate py35
 Para desactivar un ambiente
 
 ```bash
-conda deactive
+conda deactivate
 ```
 
 Para listar los paquetes instalados en un ambiente
