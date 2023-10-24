@@ -56,3 +56,7 @@ Pandas está enfocada a la manipulación y análisis de datos.
 Se pueden manejar ***grandes cantidades de datos***, hacer analítica y generar dashboards.
 
 [`Jupyter Notebok Pandas`](./L00-3-Pandas/00_numpy_pandas.ipynb)
+
+**Prácticas:**
+
+
