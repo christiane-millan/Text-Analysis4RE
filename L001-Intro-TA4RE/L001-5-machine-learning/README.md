@@ -80,3 +80,9 @@ Elegir la métrica de entrenamiento
 Elegir el clasificador y los algoritmos de optimización
 Evaluar el desempeño del modelo
 Ajustar el algoritmo
+
+## Primera aplicación de ML
+
+* [Introducción a machine learning](./code/L04.2_first_ml.ipynb)
+* [Práctica de machine learning]()
+
