@@ -11,7 +11,7 @@ Presentar al estudiante técnicas, herramientas y tecnologías de análisis de t
 [Entorno de trabajo en Python](./L00-Intro/README.md)
 
 1. [Introducción](./L001-Intro-TA4RE/README.md)
-2. Procesamiento y comprensión de requisitos
+2. [Procesamiento y comprensión de requisitos](./L002-Processing-understanding/README.md)
 3. Clasificación de requisitos
 4. Similitud y agrupación de requisitos
 5. Tópicos Avanzados
