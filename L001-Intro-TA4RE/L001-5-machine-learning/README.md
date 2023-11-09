@@ -83,6 +83,6 @@ Ajustar el algoritmo
 
 ## Primera aplicación de ML
 
-* [Introducción a machine learning](./code/L04.2_first_ml.ipynb)
-* [Práctica 1.5 de machine learning](./code/1-5-pracaticaML.ipynb)
+* [`Introducción a ML`](./code/L04.2_first_ml.ipynb)
+* [`Práctica 1.5 de ML`](./code/1-5-pracaticaML.ipynb)
 
