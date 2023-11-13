@@ -59,4 +59,5 @@ Se pueden manejar ***grandes cantidades de datos***, hacer analítica y generar
 
 **Prácticas:**
 
+[Práctica 1. Análisis Exploratorio de datos]()
 

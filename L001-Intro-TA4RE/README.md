@@ -19,7 +19,6 @@
 
 [`Aprendizaje Automático o Machine Learning`](./L001-5-machine-learning/README.md)
 
-``
 
 
 
