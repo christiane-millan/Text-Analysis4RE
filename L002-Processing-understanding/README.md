@@ -53,7 +53,7 @@ La **tokenización de palabras** es el proceso de separar o sementar oraciones e
 
 La tokenización de palabras es importante en muchos procesos, especialmente en la limpieza y normalización de los textos donde operaciones como stemming o lematización se aplica sobre cada palabra basado en sus respectivos stems (raíces) o lemas. 
 
-[Ejemplo 2. Tokenización de palabras](./code/)
+[Ejemplo 2. Tokenización de palabras](./code/tokenization_words.nltk.ipynb)
 
 ### Normalización
 
