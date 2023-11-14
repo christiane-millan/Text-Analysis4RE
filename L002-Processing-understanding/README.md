@@ -1,4 +1,4 @@
-# 1. Procesamiento y comprensión de documentos de requisitos
+# 2. Procesamiento y comprensión de documentos de requisitos
 
 ## Objetivo
 
@@ -19,9 +19,9 @@
 
 Las algoritmos de aprendizaje automático (ML por sus siglas en inglés de Machine Learning) trabajan con características de entrada de tipo numérico. 
 
-El uso de proprocesamiento de texto o pre-procesamiento implica utilizar un conjunto de técnicas para convertir texto en una secuencia de componentes lingüísticos bien definidos que tengan tanto una estrutura y notación estandarizada.
+El uso de proprocesamiento de texto o pre-procesamiento implica utilizar un conjunto de técnicas para convertir texto en una secuencia de componentes lingüísticos bien definidos que tengan tanto una estructura y notación estandarizada.
 
-Las téctinas más comunes de pre-procesamiento de texto son:
+Las técnicas más comunes de pre-procesamiento de texto son:
 
 * Tokenización
 * Etiquetado
@@ -29,7 +29,7 @@ Las téctinas más comunes de pre-procesamiento de texto son:
 * Stemming
 * Lematización
 
-Adicionalmente se necesita aplicar algunas otras operaciones básicas como coregir texto mal escrito, remover palabras vacias, y manejo de elementos irrelevantes de acuerdo al problema a resolver.
+Adicionalmente, es necesario aplicar algunas otras operaciones básicas como la corrección de texto mal escrito, remover palabras vacías, y manejo de elementos irrelevantes de acuerdo al problema a resolver.
 
 Contar con un sistema de pre-procesamiento de texto robusto es básico para cualqueir aplicación de NLP y análisis de textos, como es el caso del anális de textos para la ingeniería de requisitos.
 
@@ -55,11 +55,12 @@ La tokenización de palabras es importante en muchos procesos, especialmente en 
 
 [Ejemplo 2. Tokenización de palabras](./code/tokenization_words.nltk.ipynb)
 
+
 ### Normalización
 
 La normalización de texto se define como el proceso que consiste en una serie de pasos a seguir para argumentar, limpiar y estandarizar los datos textuales en una forma que pueda ser consumida com entrada por otro sistema de análisis y PLN o aplicación. Además de la tokenización existen otras técnicas que incluyen la limpieza de testo, conversión de mayúsculas o minúsculas, correcciones ortográficas, eliminación de ***stopwords*** y otros términos innecesarios, ***steamming*** y lematización. 
 
 La normalización de datos también es frecuentemente llamada: ***text cleansing*** o ***wrangling***.
 
-
+[Ejemplo 3. Normalización](./code/text_normalization.ipynb)
 
