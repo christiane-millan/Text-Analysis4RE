@@ -58,9 +58,14 @@ La tokenización de palabras es importante en muchos procesos, especialmente en 
 
 ### Normalización
 
-La normalización de texto se define como el proceso que consiste en una serie de pasos a seguir para argumentar, limpiar y estandarizar los datos textuales en una forma que pueda ser consumida com entrada por otro sistema de análisis y PLN o aplicación. Además de la tokenización existen otras técnicas que incluyen la limpieza de testo, conversión de mayúsculas o minúsculas, correcciones ortográficas, eliminación de ***stopwords*** y otros términos innecesarios, ***steamming*** y lematización. 
+La normalización de texto se define como el proceso que consiste en una serie de pasos a seguir para argumentar, limpiar y estandarizar los datos textuales en una forma que pueda ser consumida com entrada por otro sistema de análisis de PLN o aplicación. Además de la tokenización existen otras técnicas que incluyen la limpieza de testo, conversión de mayúsculas o minúsculas, correcciones ortográficas, eliminación de ***stopwords*** y otros términos innecesarios, ***steamming*** y lematización. 
 
 La normalización de datos también es frecuentemente llamada: ***text cleansing*** o ***wrangling***.
 
 [Ejemplo 3. Normalización](./code/text_normalization.ipynb)
 
+### Stemming
+
+Los morfemas son las unidades más pequeñas e independientes en un lenguaje natural. Los morfemas consisten de unidades que son raíces y afijos. Los afijos son unidades como prefijos, sufijos, entre otras; las cuales son agregados a las raíces de las palabras para cambiar sus significado o crear una nueva palabra. Las palabras raíces son también conocidos como forma base de una palabra (*base form*), y se pueden crear nuevas palabras mediante la unión de afijos en un proceso llamado como flexión (proceso de formación de una palabra). La inversa de esto es obtener la forma base de la palabra desde su forma de flexión y esto es conocido como stemming. 
+
+[Ejemplo 4. Stemming]
