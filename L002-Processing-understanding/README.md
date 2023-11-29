@@ -68,4 +68,22 @@ La normalización de datos también es frecuentemente llamada: ***text cleansing
 
 Los morfemas son las unidades más pequeñas e independientes en un lenguaje natural. Los morfemas consisten de unidades que son raíces y afijos. Los afijos son unidades como prefijos, sufijos, entre otras; las cuales son agregados a las raíces de las palabras para cambiar sus significado o crear una nueva palabra. Las palabras raíces son también conocidos como forma base de una palabra (*base form*), y se pueden crear nuevas palabras mediante la unión de afijos en un proceso llamado como flexión (proceso de formación de una palabra). La inversa de esto es obtener la forma base de la palabra desde su forma de flexión y esto es conocido como stemming. 
 
-[Ejemplo 4. Stemming]
+[Ejemplo 4. Stemming](./code/stemming.ipynb)
+
+### Compresión del textos
+
+Existene algunos conceptos de ML que deben ser estudiados para comprender las implementaciones realizada.
+
+- Preparación de los datos
+- Extracción de características
+- Características
+- Datos de entrenamiento
+- Datos de prueba/validación
+- Modelo
+- Exactitud (accuracy)
+
+#### POS Tagging
+
+El etiquetado de las partes del discurso (Part os Speech tagging o POS tagging) son categorías léxicas específicas a las cuales las palabras son asignadas basado en su contexto sintáctico y rol (pronombre, verbos, adjetivo y adverbio). 
+
+[Ejemplo 5. POS Tagging]()
