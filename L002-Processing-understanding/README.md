@@ -70,6 +70,12 @@ Los morfemas son las unidades más pequeñas e independientes en un lenguaje nat
 
 [Ejemplo 4. Stemming](./code/stemming.ipynb)
 
+### Lematización
+
+El proceso de lematización es muy similar al stemming (se eliminan afijos para obtener la forma base de una palabra). Pero en este caso, la forma base también conocida como raíz de la palabra, pero la raíz stem. La diferencia entre la raíz stem no siempre es una palabra correcta lexicográficamente, es decir, puede no estar presente en el diccionario. La raíz de la palabra, también conocida como lema, siempre estará presente en el diccionario. 
+
+[Ejemplo 5. Lematización](./code/stemming.ipynb)
+
 ### Compresión del textos
 
 Existene algunos conceptos de ML que deben ser estudiados para comprender las implementaciones realizada.
@@ -86,4 +92,6 @@ Existene algunos conceptos de ML que deben ser estudiados para comprender las im
 
 El etiquetado de las partes del discurso (Part os Speech tagging o POS tagging) son categorías léxicas específicas a las cuales las palabras son asignadas basado en su contexto sintáctico y rol (pronombre, verbos, adjetivo y adverbio). 
 
-[Ejemplo 5. POS Tagging]()
+[Ejemplo 5. POS Tagging](./code/pos_tagging.ipynb)
+
+[Práctica 1. Normalización de texto]()
