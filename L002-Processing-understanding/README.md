@@ -94,4 +94,9 @@ El etiquetado de las partes del discurso (Part os Speech tagging o POS tagging) 
 
 [Ejemplo 5. POS Tagging](./code/pos_tagging.ipynb)
 
+
+[Ejemplo 6. NLKT Text](./code/L002-6_nltk_text.ipynb)
+[Ejercicio. NLTK Text](./code/L002-6e_nltk_text.ipynb)
+[Ejemplo 7. NLTK Distribucón de Frecuencia](./code/L002-7_nltk_freq_dist.ipynb)
+[Ejemplo 8. Visualizaciones en NLP]()
 [Práctica 1. Normalización de texto]()
