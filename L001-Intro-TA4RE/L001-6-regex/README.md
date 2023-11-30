@@ -4,5 +4,5 @@ Las expresiones regulares o regex son secuencias de caracteres que definen un pa
 
 as expresiones regulares resultan sumamente útiles para trabajar con lenguaje natural. Vamos a repasar algunas de las reglas de las regex y a aprender a aplicarlas usando pandas.
 
-[Ejemplo. Expresiones Regulares](./code/L001-6-1_regex.ipynb)
-[Ejercicio. Regex](./code/L001-6-1e-regex.ipynb)
+- [Ejemplo. Expresiones Regulares](./code/L001-6-1_regex.ipynb)
+- [Ejercicio. Regex](./code/L001-6-1e-regex.ipynb)
